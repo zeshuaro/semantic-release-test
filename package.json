@@ -1,0 +1,9 @@
+{
+  "name": "semantic-release-test",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repositoryUrl": "https://github.com/zeshuaro/semantic-release-test",
+  "devDependencies": {
+    "semantic-release": "^21.0.9"
+  }
+}

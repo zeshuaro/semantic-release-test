@@ -1,0 +1,9 @@
+{
+  "dryRun": true,
+  "branches": [
+    "main"
+  ],
+  "plugins": [
+    "semantic-release-pub"
+  ]
+}
